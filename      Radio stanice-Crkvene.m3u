@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1, Радио Глас Епархиjе Нишке 92.0 FM
+http://92.60.230.200:5070/;stream.mp3
+#EXTINF:-1,Eparhija Backa-Radio Beseda
+http://radio.eparhijabacka.info:8000/RadioBeseda
+#EXTINF:-1,Eparhija Backa-Radio Slavoslovlje
+http://radio.eparhijabacka.info:8000/RadioSlavoslovlje
+#EXTINF:-1,Eparhija Backa-RadioTavor
+http://radio.eparhijabacka.info:8000/RadioTavor
+#EXTINF:-1,Marija Medjugorje
+http://dreamsiteradiocp2.com:8076/;RADIO/taki028.mp3
+#EXTINF:-1,Radio Maria - Italia
+https://dreamsiteradiocp5.com/proxy/rmitalia?mp=/stream
+#EXTINF:-1,Radio Maria - România
+https://dreamsiteradiocp2.com/proxy/rmromania2?mp=/stream
+#EXTINF:-1,Radio Maria - Shqipëria
+https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream
+#EXTINF:-1,Radio Maria - USA
+https://dreamsiteradiocp4.com/proxy/rmusa?mp=/stream
+#EXTINF:-1,Radio Marija - Srbija
+https://dreamsiteradiocp2.com/proxy/rmserbia2?mp=/stream
+#EXTINF:-1,Radio Marija-Leskovac_RS
+http://dreamsiteradiocp.com:8012/;stream?nocache/Радио"Мариjа"-Лесковац_РС《таки028》
+#EXTINF:-1,Radio Medjugorje - Italia
+https://nr8.newradio.it/proxy/ebakovic?mp=/stream
+#EXTINF:-1,Radio Vaticana 1 (Europa)
+https://rvl.azureedge.net/channel1.mp3
+#EXTINF:-1,Radiopostaja Mir Međugorje
+https://mirm.live/mir.mp3
+#EXTINF:-1,Μοναδική Πολιτεία 96.0 FM - Ναύπακτος
+http://netradio.live24.gr/monadikipolitia96
+#EXTINF:-1,Ορθόδοξη Παρουσία 106.8 FM
+http://www.gwebstream.net:8008/;stream.mp3
+#EXTINF:-1,Ράδιο «Ο Άγιος Δημήτριος» - Κύπρος
+https://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio
+#EXTINF:-1,Радио Мария - Россия
+https://dreamsiteradiocp6.com/proxy/rmrussia?mp=/stream
+#EXTINF:-1,Радио Светигора - Црна Гора
+https://svetigoralive.com/Radio%20Svetigora;
